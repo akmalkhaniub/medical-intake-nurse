@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+vapi-python
+deepgram-sdk
+motor
+python-dotenv
